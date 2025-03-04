@@ -5,7 +5,7 @@ plugins:
 minima:
   skin: dark
 title: "a_cat.on(⌨️)"
-description: Random blog for madonuko
+description: Personal blog in a paper box
 defaults:
   - scope:
       path: "_posts"
