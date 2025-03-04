@@ -1,7 +1,8 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 minima:
   skin: dark
-title: a_cat.on(⌨️)
+title: `a_cat.on(⌨️)`
 description: Random blog for madonuko
