@@ -7,4 +7,4 @@ I'll write in whatever language I want to because that's my freedom ;)
 
 ## Posts
 
-- {% post_url 2025-03-04-風水老人 %}
+- [風水老人]({% post_url 2025-03-04-風水老人 %})
