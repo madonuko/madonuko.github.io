@@ -1,6 +1,6 @@
 ---
 title: "Welcome to a_cat.on(⌨️)"
-# layout: default
+layout: home
 ---
 
 This is a website where I will post random things I see that I find interesting, but don't really sound appropriate as a blog post
