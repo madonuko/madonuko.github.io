@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Will AI Replace Me?
-date: 2024-03-05 18:00:00 +0800
+date: 2025-03-05 18:00:00 +0800
 author:
 - madonuko
 categories:
@@ -12,9 +12,13 @@ tags:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmadonuko.github.io%2F2025%2F03%2F05%2Fwill-ai-replace-me.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## README
+
+This post is a mix of my opinions and my real life experiences.
+
 ## 1. A Talk about AI
 
-2025-04-28 (Friday). I went to attend a talk about AI. Before you ask, I was forced to attend the event because it's a college assembly.
+2025-04-28 (Fri). I went to attend a talk about AI. Before you ask, I was forced to attend the event because it's a college assembly.
 
 Anyway this time around they invited a speaker who is the [...] of [...], "an AI solution provider to financial institutions and the Managing Partner of [...], a fintech asset management platform."
 
@@ -52,8 +56,102 @@ Second, AI needs to have the **ability to reason logic**. This again, is not pos
   "wow this is so much better" because they never understood programming at all.
   - this is also shown in https://stackoverflow.blog/2021/12/30/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/#h3-62be7933c6450.
 
-Conclusion:
-1. **AI will replace programmers that are not real programmers (i.e. if you just copy and paste)**.
-2. **People that heavily relies on AI to write code are just performing a modern version of [Copy-and-paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming)**.
+### Conclusion
 
-## 2. 
+1. **AI will replace programmers that are not real programmers (i.e. if you just copy and paste)**.
+2. **People that heavily rely on AI to write code are just performing a modern version of [Copy-and-paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming)**.
+
+## 2. Chatting with Mum during Lunch
+
+2025-03-04 (Tue).
+
+"[…] which is why I don't think AI will replace *real* programmers."
+
+"Yeah, like… I agree that AIs don't actually have the ability to think or reason.
+They just 'copy and paste' from existing texts that were once written by humans,
+and their knowledge is built upon what humans have written before.
+As you've said about the [Strawberry Test](https://www.benluong.com/testing-llms-on-the-strawberry-challenge/),
+there needs to be a random person out there that stated that the word 'strawberry' has 3 'r's in order for
+LLMs to know that 'strawberry' has 3 'r's."
+
+"They never understood and reasoned that they actually do not have the
+ability to count letters due to the limitations [within the designs of LLM tokenizations]."
+
+"If humans didn't exist, then AI wouldn't exist either, because they have nothing to learn from / train on."
+
+"Yeah, exactly."
+
+"This reminds me of your classmate X [actual name redacted].
+X's parents said on Facebook that X went to [Hong Kong University of Science and Technology](https://en.wikipedia.org/wiki/HKUST) for an interview.
+The interviewer asked '**[do] you think that AIs should have human rights?**'.
+Guess how X answered."
+
+"How…?"
+
+"Guess."
+
+"Oh come on, just tell me already. Maybe yes only if AI has feelings or stuff like that?"
+
+"Well, he answered '[no] because animals also don't have human rights, then why should AIs have human rights?'"
+
+"Uhhhhhh…"
+
+"Yeah and they [as in the parents] didn't mentioned that X got an offer from HKUST, so X most likely didn't. So they [as in the interviewers] probably didn't like X's answer too."
+
+## 3. AI → AI?
+
+2025-03-04 (Tue). During dinner.
+
+Bro "I need to attend a talk about AI this Saturday"\
+Mum "What's it about?"\
+Bro "About AIs and random junk talks and idk"\
+Mum "You know your brother also had to attend an AI talk?"\
+Bro "Oh, how did that go?"\
+Mum "Ask your brother"\
+Bro "(to me) How was it?"\
+Me "Yeah it was trash and the person claimed that AI would replace programmers which I don't think is possib-"\
+Bro "They claimed that ***AI will replace AI?????***"
+
+<small>なんのオチやねんこれ</small>
+
+---
+
+Mum "So yeah but without an offer X still got into UST."\
+Dad "Interesting. How would you answer that question then?"\
+Me "I… don't know?"\
+Dad "Well obviously that depends on **whether we should treat AIs as humans**."\
+Me "Obviously. Well now the problem is **how do we define 'humans'**."\
+Dad "Yup. How then?"\
+Me "Maybe… language?"\
+Dad "Animals do have languages too? Like elephants, dolph-"\
+Me "Yeah yeah yeah true. How about… emotions?"\
+Dad "Nah anim-"\
+Me "Ah wait yeah nah like I remembered there was news that there was like a dog and it could press buttons to reply to humans and stuff like that."[^1]\
+Dad "What?"\
+Me "Yeah it was like… They place a bunch of buttons on the ground that maps to different vocabs, and the dog just presses them to form partial sentences."\
+Dad "That's probably fake…?"\
+Me "Ok whatever but yeah animals do have some sort of languages. And they have emotions yeah."\
+Dad "Yeah I think there were news about apes getting emotional when they lost their loved ones."\
+Me "Yeah so… no clue then."\
+Dad "… Well, the answer is **認知 (_cognition_)**. If they can start thinking about their own questions and create their own knowledge, they are basically human."\
+Me "… what about aliens?"\
+Dad "Are there aliens?"\
+Me "We have one at home (*points to my brother*)"
+
+[...]
+
+"… Back to the topic, **if they can start thinking about things like 'why am I here?', 'what is the meaning of life', etc., then we can probably regard them as humans**."
+
+"I see…"
+
+"So basically, **philosophy**."
+
+### Conclusion
+
+1. **AIs should not have human rights for now, since they currently do not resemble humans**.
+2. **Humans have _cognition_, e.g. the ability to think about philosophy, while other life forms and AIs don't, making this one of our most important defining characteristics**.
+
+
+## Footnotes
+
+[^1]: <https://www.youtube.com/shorts/pbqp-FnOfGs>
