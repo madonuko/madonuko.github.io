@@ -58,6 +58,8 @@ Second, AI needs to have the **ability to reason logic**. This again, is not pos
 
 ### Conclusion
 
+Again, these are my opinions, but:
+
 1. **AI will replace programmers that are not real programmers (i.e. if you just copy and paste)**.
 2. **People that heavily rely on AI to write code are just performing a modern version of [Copy-and-paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming)**.
 
@@ -146,11 +148,7 @@ Me "We have one at home (*points to my brother*)"
 
 "So basically, **philosophy**."
 
-### Conclusion
-
-1. **AIs should not have human rights for now, since they currently do not resemble humans**.
-2. **Humans have _cognition_, e.g. the ability to think about philosophy, while other life forms and AIs don't, making this one of our most important defining characteristics**.
-
+---
 
 ## Footnotes
 
