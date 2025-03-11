@@ -11,3 +11,4 @@ defaults:
       path: "_posts"
     values:
       layout: "posts"
+permalink: /:categories/:title
