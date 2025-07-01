@@ -10,8 +10,6 @@ tags:
 - irl
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmadonuko.github.io%2F2025%2F03%2F05%2Fwill-ai-replace-me.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## README
 
 This post is a mix of my opinions and my real life experiences.
