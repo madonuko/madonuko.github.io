@@ -14,7 +14,7 @@ I'll write in whatever language I want to because that's my freedom ;)
 [![committers.top badge](https://user-badge.committers.top/hong_kong/madonuko.svg)](https://user-badge.committers.top/hong_kong/madonuko)
 [![committers.top badge](https://user-badge.committers.top/hong_kong_public/madonuko.svg)](https://user-badge.committers.top/hong_kong_public/madonuko)
 
-- [Ultramarine Linux](https://ultramarine-linux.org/) core maintainer
+- [Ultramarine Linux](https://ultramarine-linux.org/) & [Terra](https://terrapkg.com) core maintainer
 - Rust, Nim programmer
 - [GitHub](https://github.com/madonuko)
 - [Official Fedi](https://fedi.fyralabs.com/@madomado)
@@ -22,6 +22,11 @@ I'll write in whatever language I want to because that's my freedom ;)
 - [GitHub Sponsors](https://github.com/sponsors/madonuko) (please!)
 - [Buy me a tea (because I don't drink coffee)](https://www.buymeacoffee.com/madonuko)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmadonuko.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.fyralabs.com/js/pa-hzTtB_rPD8sAGQN5fqHGo.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 
 ## Posts
